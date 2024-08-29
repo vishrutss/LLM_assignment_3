@@ -1,4 +1,4 @@
-# Multilingual Sentiment Analysis: Google Gemini vs. ChatGPT
+# Multilingual Sentiment Analysis: Google Gemini and ChatGPT
 
 ## Overview
 
@@ -8,6 +8,10 @@ to determine their performance in understanding and classifying sentiment in dif
 
 **NOTE: The models being compared are Google Gemini's version as of March 2024 and Chat GPT 3.5. This experiment was
 conducted before the release of the GPT 4o models**
+
+**Disclaimer: The results of this project do not definitively prove that one model is better than the other. 
+Each model excels in certain aspects compared to the other. The aim of this project is to provide an insight 
+into how the leading generative AI models perform in multilingual sentiment analysis.**
 
 ## Dataset used
 
